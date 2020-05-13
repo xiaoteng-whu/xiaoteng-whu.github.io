@@ -12,7 +12,7 @@ github_repo: "https://github.com/xiaoteng-whu/xiaoteng-whu.github.io.git" # you 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "敏于事而慎于言"
-sidebar-avatar: /img/about-me2.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
