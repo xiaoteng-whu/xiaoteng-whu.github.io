@@ -6,7 +6,7 @@ email: xiaoteng@whu.edu.cn
 description: ""
 keyword: "Blog,SfM"
 url: "https://xiaoteng.xyz"          # your host, for absolute URL
-baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiaoteng-whu/xiaoteng-whu.github.io.git" # you code repository
 
 # Sidebar settings
