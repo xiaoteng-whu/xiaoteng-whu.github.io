@@ -19,7 +19,7 @@
                     <li>
                         <a href="{{ site.baseurl }}/">Home</a>
                     </li>
-					  <li>
+					 <li>
                         <a href="www.baidu.com">Research</a>
                     </li>
                     {% for page in site.pages %}{% if page.title %}
@@ -27,6 +27,13 @@
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
                     {% endif %}{% endfor %}
+                </ul>
+				<ul class="nav navbar-nav navbar-right">
+                    
+					 <li>
+                        <a href="www.baidu.com">Research</a>
+                    </li>
+                   
                 </ul>
             </div>
         </div>
